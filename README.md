@@ -27,5 +27,5 @@ Codigos Usados:
 #### Para fazer as perguntas 
 ```
 const produto = prompt("Qual remedio você deseja?")
-const bairro = prompt("Qual o bairro que você morra?")
+const bairro = prompt("Qual o bairro que você mora?")
 ```
