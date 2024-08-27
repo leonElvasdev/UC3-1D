@@ -17,11 +17,8 @@ Escreva aqui os conteúdos aprendidos.
 
 * O que é java Javascript
 
-Javascript é conhecido como uma linguagem de código, muito avançada e difícil, ele serve para deixar, os códigos, mais dinâmicos e interessantes. 
+  Javascript é conhecido como uma linguagem de código, muito avançada e difícil, ele serve para deixar, os códigos, mais dinâmicos e interessantes.
 
-* O que é Algoritmo
-
-Tipos de Algoritmos
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
