@@ -21,21 +21,32 @@ Escreva aqui os conteúdos aprendidos.
   
 * O que é string?
   
- Sequências (ou cadeias) de caracteres que usamos para, entre outras coisas, manipular textos.
+ strings são sequências de letras, números e/ou símbolos usadas em programação. Em Javascript, uma string sempre estará entre (aspas).
  
 Ex:
 ```JS
 const fruta = "banana"
 // ["b", "a", "n", "a", "n", "a"]
 ```
+```JS
+console.log('Estudando')
+```
 
 * O que é numbers?
 
+  É um objeto encapsulado que permite você trabalhar com valores numéricos. Um objeto Number é criado utilizando o construtor Number().
 
 * O que é array?
   
+ Os arrays são estruturas que servem para guardar dados, e organizá-los. Seu objetivo é ser um espaço fixo na memória do computador que armazena elementos.
+  
 
 * O que é switch case
+
+* variaveis
+  Var: Ela pode ser reatribuída e redeclarada. Diferentemente da const e da let ela não tem escopo de bloco.
+  Let: Ela também pode ter o seu valor reatribuido mas não pode ser redeclarado.
+  const: Ela não pode ter seu valor reatribuído nem redeclarado. Diferentemente da let e da var. E assim com a let ela também tem escopo de bloco.
 
 
 ## Atividades desenvolvidas
