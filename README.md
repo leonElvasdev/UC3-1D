@@ -18,6 +18,24 @@ Escreva aqui os conteúdos aprendidos.
 * O que é java Javascript
 
   Javascript é conhecido como uma linguagem de código, muito avançada e difícil, ele serve para deixar, os códigos, mais dinâmicos e interessantes.
+  
+* O que é string?
+  
+ Sequências (ou cadeias) de caracteres que usamos para, entre outras coisas, manipular textos.
+ 
+Ex:
+```JS
+const fruta = "banana"
+// ["b", "a", "n", "a", "n", "a"]
+```
+
+* O que é numbers?
+
+
+* O que é array?
+  
+
+* O que é switch case
 
 
 ## Atividades desenvolvidas
