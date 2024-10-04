@@ -63,6 +63,6 @@ Codigos Usados:
 const produto = prompt("Qual remedio você deseja?")
 const bairro = prompt("Qual o bairro que você mora?")
 ```
-[Array: Livraria](https://codepen.io/LEONCIoo/pen/gONoQJV)
+[Array: Biblioteca](https://codepen.io/LEONCIoo/pen/gONoQJV)
 
-Nós aprendemos a criar um tipo de repositórios, de livros, aonde aprendemos códigos para retirar livros e adicionar novos livros, a nossa livraria.
+Nós aprendemos a criar um tipo de biblioteca, aonde aprendemos códigos para retirar livros e adicionar novos livros, a nossa livraria, também aprendemos como saber o numero da posição, em que os livros estão.
