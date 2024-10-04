@@ -65,4 +65,21 @@ const bairro = prompt("Qual o bairro que você mora?")
 ```
 [Array: Biblioteca](https://codepen.io/LEONCIoo/pen/gONoQJV)
 
-Nós aprendemos a criar um tipo de biblioteca, aonde aprendemos códigos para retirar livros e adicionar novos livros, a nossa livraria, também aprendemos como saber o numero da posição, em que os livros estão.
+Nós aprendemos a criar um tipo de biblioteca, aonde aprendemos códigos para retirar livros e adicionar novos livros, a nossa livraria. Também aprendemos como saber o numero da posição, em que os livros estão.
+
+```JS
+const livros = ["Javascript Assertivo", "ECMAScript 6", "MongoDB", "Leon", "vivi", "run", "lavi", "bob"]
+console.log(livros[0]);
+console.log(livros[1]);
+console.log(livros[2]);
+console.log(livros[3]);
+```
+Consultar o nomero dos livros da const 
+```JS
+let consulta = livros.indexOf("ECMAScript 6")
+console.log(consulta)
+```
+Para retilar o ultimo livro do "const livros"
+```JS
+console.log(livros.pop());
+```
