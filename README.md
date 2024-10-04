@@ -74,12 +74,25 @@ console.log(livros[1]);
 console.log(livros[2]);
 console.log(livros[3]);
 ```
+
 Consultar o nomero dos livros da const 
 ```JS
 let consulta = livros.indexOf("ECMAScript 6")
 console.log(consulta)
 ```
+
 Para retilar o ultimo livro do "const livros"
 ```JS
 console.log(livros.pop());
 ```
+
+Para adicionar um novo livro
+```JS
+console.log(livros.push("Moi"));
+```
+
+Para deixar em ordem alfabética   
+```JS
+console.log(livros.sort());
+```
+
