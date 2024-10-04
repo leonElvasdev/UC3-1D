@@ -63,3 +63,6 @@ Codigos Usados:
 const produto = prompt("Qual remedio você deseja?")
 const bairro = prompt("Qual o bairro que você mora?")
 ```
+[Switch Case: Livraria](https://codepen.io/LEONCIoo/pen/gONoQJV)
+
+Nós aprendemos a criar um tipo de repositórios, de livros, aonde aprendemos códigos para retirar livros e adicionar novos livros, a nossa livraria.
