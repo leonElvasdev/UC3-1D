@@ -54,7 +54,7 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 
 [Switch Case: Da farmacia](https://codepen.io/LEONCIoo/pen/GRbOQQd?editors=0012)
 
-Nós aprendemos a criar um tipo de atendimento, para uma farmácia, a onde a gente teria que escrever um código para pergunta qual o medicamento que o cliente deseja e o bairro em que o cliente mora, e programar as respostas possíveis do atendimento
+Nós aprendemos a criar um tipo de atendimento, para uma farmácia, a onde a gente teria que escrever um código para pergunta qual o medicamento que o cliente deseja e o bairro em que o cliente mora, programar as respostas, possíveis do atendimento
 
 Codigos Usados: 
 
