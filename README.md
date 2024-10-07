@@ -95,4 +95,8 @@ Para deixar em ordem alfabética
 ```JS
 console.log(livros.sort());
 ```
+[Switch Case: Mercadinho de Fruta ](https://codepen.io/LEONCIoo/pen/bGPaOYg)
+Essa atividade,foi feita em equipe por mim, julia e Victoria. a gente fez quase o mesmo esquema da farmacia.
+
+
 
