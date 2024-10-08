@@ -19,7 +19,7 @@ Escreva aqui os conteúdos aprendidos.
 
   Javascript é conhecido como uma linguagem de código, muito avançada e difícil, ele serve para deixar, os códigos, mais dinâmicos e interessantes.
   
-* O que é string?
+ ## String
   
  strings são sequências de letras, números e/ou símbolos usadas em programação. Em Javascript, uma string sempre estará entre (aspas).
  
@@ -32,21 +32,22 @@ const fruta = "banana"
 console.log('Estudando')
 ```
 
-* O que é numbers?
+## Numbers
 
   É um objeto encapsulado que permite você trabalhar com valores numéricos. Um objeto Number é criado utilizando o construtor Number().
 
-* O que é array?
+## array
   
  Os arrays são estruturas que servem para guardar dados, e organizá-los. Seu objetivo é ser um espaço fixo na memória do computador que armazena elementos.
   
 
-* O que é switch case
+## switch case
 
 * variaveis
   Var: Ela pode ser reatribuída e redeclarada. Diferentemente da const e da let ela não tem escopo de bloco.
   Let: Ela também pode ter o seu valor reatribuido mas não pode ser redeclarado.
   const: Ela não pode ter seu valor reatribuído nem redeclarado. Diferentemente da let e da var. E assim com a let ela também tem escopo de bloco.
+
 
 
 ## Atividades desenvolvidas
@@ -96,6 +97,7 @@ Para deixar em ordem alfabética
 console.log(livros.sort());
 ```
 [Switch Case: Mercadinho de Fruta ](https://codepen.io/LEONCIoo/pen/bGPaOYg)
+
 Essa atividade,foi feita em equipe por mim, julia e Victoria. a gente fez quase o mesmo esquema da farmacia.
 
 
