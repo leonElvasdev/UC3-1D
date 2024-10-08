@@ -36,9 +36,15 @@ console.log('Estudando')
 
   É um objeto encapsulado que permite você trabalhar com valores numéricos. Um objeto Number é criado utilizando o construtor Number().
 
-## array
-  
- Os arrays são estruturas que servem para guardar dados, e organizá-los. Seu objetivo é ser um espaço fixo na memória do computador que armazena elementos.
+## Array
+
+ O que é uma Array?
+ 
+  Os arrays são estruturas que servem para guardar dados, e organizá-los. Seu objetivo é ser um espaço fixo na memória do computador que armazena elementos. Esses elementos podem ser acessados por um tipo de indicação, que chamamos de índice.
+ 
+ Para que serve um array?
+ 
+  array é uma estrutura de dados que serve para guardar elementos em um espaço da memória. Estes espaços da memória são chamados de **variáveis**.
   
 
 ## switch case
