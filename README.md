@@ -38,28 +38,37 @@ console.log('Estudando')
 
 ## Array
 
-**O que é uma Array?**
+* **O que é uma Array?**
  
   Os arrays são estruturas que servem para guardar dados, e organizá-los. Seu objetivo é ser um espaço fixo na memória do computador que armazena elementos. Esses elementos podem ser acessados por um tipo de indicação, que chamamos de índice.
   
  
-**Para que serve um array?**
+* **Para que serve um array?**
  
   array é uma estrutura de dados que serve para guardar elementos em um espaço da memória. Estes espaços da memória são chamados de **variáveis**.
   
 
-  **Como funciona um Array em Javascript?**
+  * **Como funciona um Array em Javascript?**
   
   Em Javascript os arrays se comportam de forma parecida ao buscar o item na lista, a diferença é que ele começa a contar do zero.
   
   
-  **Como declarar um Array em JavaScript?**
+  * **Como declarar um Array em JavaScript?**
 
   Existem duas formas de declarar um array em Javascript, mas a mais comum delas é criando uma variável da seguinte forma:
   ```JS
   var listaDeFrutas = ['Maçãs','Uvas','Bananas','Abacaxi','Morangos'];
   ```
   cada item da lista é separado por vírgulas e ocupa uma posição do array *listaDeFrutas* iniciando no índice zero. Essa forma é chamada de método literal de array.
+  
+  * **Acessando um elemento do array**
+Podemos acessar elementos de um array buscando por seu índice, da seguinte forma:
+ ```JS
+ var primeiroItem = listaDeFrutas[0]; // Pega o item 'Maçãs'
+ var segundoItem = listaDeFrutas[1]; // Pega o item 'Uvas'
+ var terceiroItem = listaDeFrutas[2]; // Pega o item 'Bananas'
+ ```
+
 
 
 
