@@ -88,45 +88,10 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 
 Nós aprendemos a criar um tipo de atendimento, para uma farmácia, a onde a gente teria que escrever um código para pergunta qual o medicamento que o cliente deseja e o bairro em que o cliente mora, programar as respostas, possíveis do atendimento
 
-Codigos Usados: 
-
-#### Para fazer as perguntas 
-```JS
-const produto = prompt("Qual remedio você deseja?")
-const bairro = prompt("Qual o bairro que você mora?")
-```
 [Array: Biblioteca](https://codepen.io/LEONCIoo/pen/gONoQJV)
 
 Nós aprendemos a criar um tipo de biblioteca, onde aprendemos códigos para retirar livros e adicionar novos livros à nossa livraria. Também aprendemos como saber o número da posição, em que os livros estão.
 
-```JS
-const livros = ["Javascript Assertivo", "ECMAScript 6", "MongoDB", "Leon", "vivi", "run", "lavi", "bob"]
-console.log(livros[0]);
-console.log(livros[1]);
-console.log(livros[2]);
-console.log(livros[3]);
-```
-
-Consultar o número dos livros da const 
-```JS
-let consulta = livros.indexOf("ECMAScript 6")
-console.log(consulta)
-```
-
-Para retirar o ultimo livro do "const livros"
-```JS
-console.log(livros.pop());
-```
-
-Para adicionar um novo livro
-```JS
-console.log(livros.push("Moi"));
-```
-
-Para deixar em ordem alfabética   
-```JS
-console.log(livros.sort());
-```
 [Switch Case: Mercadinho de Fruta ](https://codepen.io/LEONCIoo/pen/bGPaOYg)
 
 Essa atividade,foi feita em equipe por mim, julia e Victoria. a gente fez quase o mesmo esquema da farmacia.
