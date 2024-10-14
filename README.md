@@ -82,7 +82,15 @@ Podemos acessar elementos de um array buscando por seu índice, da seguinte form
 ## Fuction
 
 * **O que é função?**
+  
   Funções são blocos de construção fundamentais em JavaScript. Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor.
+
+  * **Declarando uma função**
+A definição da função (também chamada de declaração de função) consiste no uso da palavra chave function, seguida por:
+
+* Nome da Função.
+* Lista de argumentos para a função, entre parênteses e separados por vírgulas.
+* Declarações JavaScript que definem a função, entre chaves { }.
   
 
 
