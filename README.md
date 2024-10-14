@@ -79,6 +79,11 @@ Podemos acessar elementos de um array buscando por seu índice, da seguinte form
   Let: Ela também pode ter o seu valor reatribuido mas não pode ser redeclarado.
   const: Ela não pode ter seu valor reatribuído nem redeclarado. Diferentemente da let e da var. E assim com a let ela também tem escopo de bloco.
 
+## Fuction
+
+* **O que é função?**
+  Funções são blocos de construção fundamentais em JavaScript. Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor.
+  
 
 
 ## Atividades desenvolvidas
