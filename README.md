@@ -109,5 +109,8 @@ Nós aprendemos a criar um tipo de biblioteca, onde aprendemos códigos para ret
 
 Essa atividade,foi feita em equipe por mim, julia e Victoria. a gente fez quase o mesmo esquema da farmacia.
 
+[Função: Soma](https://codepen.io/LEONCIoo/pen/MWNjyNE)
+Criamos uma função sobre para somar números aleatórios 
+
 
 
